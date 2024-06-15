@@ -1,0 +1,16 @@
+D:\python_le\yolo3-pytorch\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/01-90_91-255&495_438&557-440&551_259&552_260&490_441&489-0_0_29_11_32_31_31-151-12.jpg
+D:\python_le\yolo3-pytorch\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/01-91_83-308&523_493&587-504&591_303&585_298&519_499&525-0_0_27_32_13_30_29-114-12.jpg
+D:\python_le\yolo3-pytorch\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/0125-93_82-266&466_451&546-453&544_270&530_263&464_446&478-0_0_24_21_29_32_30-178-13.jpg
+D:\python_le\yolo3-pytorch\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/015-90_85-287&351_516&422-511&426_286&412_293&337_518&351-0_0_2_24_27_30_27-156-23.jpg
+D:\python_le\yolo3-pytorch\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/015-90_89-241&522_496&588-479&596_247&595_257&517_489&518-0_9_30_23_29_31_30-130-29.jpg
+D:\python_le\yolo3-pytorch\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/0175-89_92-266&431_485&511-494&507_268&522_272&430_498&415-0_0_7_25_30_30_4-130-12.jpg
+D:\python_le\yolo3-pytorch\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/0175-90_87-198&471_460&564-451&552_211&553_210&474_450&473-0_0_9_27_32_32_2-89-27.jpg
+D:\python_le\yolo3-pytorch\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/0175-90_88-185&553_439&633-434&628_198&632_198&556_434&552-0_0_16_30_24_28_23-45-9.jpg
+D:\python_le\yolo3-pytorch\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/0175-90_89-189&425_441&518-441&515_188&512_192&423_445&426-0_0_5_11_29_32_25-178-12.jpg
+D:\python_le\yolo3-pytorch\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/0175-90_91-307&466_528&554-524&546_307&546_314&464_531&464-0_0_23_10_32_32_26-35-64.jpg
+D:\python_le\yolo3-pytorch\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/0175-96_76-134&450_325&560-323&564_138&526_127&437_312&475-0_11_6_33_17_33_33-95-17.jpg
+D:\python_le\yolo3-pytorch\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/02-90_90-220&510_464&600-469&599_224&596_233&506_478&509-0_0_21_30_16_31_29-95-77.jpg
+D:\python_le\yolo3-pytorch\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/0225-91_79-213&528_492&627-512&628_235&615_203&522_480&535-0_0_23_23_33_32_32-49-12.jpg
+D:\python_le\yolo3-pytorch\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/0225-95_79-226&446_485&552-499&559_253&527_228&444_474&476-11_2_24_32_24_23_23-94-14.jpg
+D:\python_le\yolo3-pytorch\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/0225-97_76-247&485_479&584-500&596_240&555_237&471_497&512-0_0_23_15_29_33_29-78-28.jpg
+D:\python_le\yolo3-pytorch\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/035-102_60-350&384_628&527-636&547_358&460_346&376_624&463-0_0_29_21_32_32_30-27-31.jpg
